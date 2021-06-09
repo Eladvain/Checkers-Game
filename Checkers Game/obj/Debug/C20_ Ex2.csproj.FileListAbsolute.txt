@@ -1,0 +1,10 @@
+E:\2nd year summer semester\c sharp\C20 Ex5 Elad Vainberg Refael Doron 311219372\bin\Debug\C20_ Ex2.exe.config
+E:\2nd year summer semester\c sharp\C20 Ex5 Elad Vainberg Refael Doron 311219372\bin\Debug\C20_ Ex2.exe
+E:\2nd year summer semester\c sharp\C20 Ex5 Elad Vainberg Refael Doron 311219372\bin\Debug\C20_ Ex2.pdb
+E:\2nd year summer semester\c sharp\C20 Ex5 Elad Vainberg Refael Doron 311219372\obj\Debug\C20_ Ex2.csprojAssemblyReference.cache
+E:\2nd year summer semester\c sharp\C20 Ex5 Elad Vainberg Refael Doron 311219372\obj\Debug\C20__Ex2.SettingsForm.resources
+E:\2nd year summer semester\c sharp\C20 Ex5 Elad Vainberg Refael Doron 311219372\obj\Debug\C20__Ex2.GameBoard.resources
+E:\2nd year summer semester\c sharp\C20 Ex5 Elad Vainberg Refael Doron 311219372\obj\Debug\C20_ Ex2.csproj.GenerateResource.cache
+E:\2nd year summer semester\c sharp\C20 Ex5 Elad Vainberg Refael Doron 311219372\obj\Debug\C20_ Ex2.csproj.CoreCompileInputs.cache
+E:\2nd year summer semester\c sharp\C20 Ex5 Elad Vainberg Refael Doron 311219372\obj\Debug\C20_ Ex2.exe
+E:\2nd year summer semester\c sharp\C20 Ex5 Elad Vainberg Refael Doron 311219372\obj\Debug\C20_ Ex2.pdb
